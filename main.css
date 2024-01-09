@@ -1,0 +1,11 @@
+a {
+    color-scheme: blue;
+}
+
+a :visited {
+    color: lightgrey;
+}
+
+a:hover, a:active {
+    color: #eee;
+}
